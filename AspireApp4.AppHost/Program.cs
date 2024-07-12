@@ -9,3 +9,4 @@ builder.AddProject<Projects.AspireApp4_Web>("webfrontend")
 builder.Build().Run();
 //git changes
 //status bar
+//gitmenu
