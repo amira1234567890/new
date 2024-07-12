@@ -10,3 +10,4 @@ builder.Build().Run();
 //git changes
 //status bar
 //gitmenu
+//git repo
